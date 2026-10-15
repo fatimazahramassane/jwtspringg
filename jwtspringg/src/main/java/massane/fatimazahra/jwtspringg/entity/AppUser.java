@@ -25,6 +25,7 @@ public class AppUser {
     public AppUser() {
     }
     public Long getId() {
+
         return id;
     }
 }
